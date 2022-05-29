@@ -1,0 +1,68 @@
+Links
+
+0101 Webseiten für alle Devices
+https://stackoverflow.com/questions/10538599/default-web-page-width-1024px-or-980px#
+http://bradfrost.com/blog/post/device-fatigue/
+http://atomicdesign.bradfrost.com/images/content/devices.jpg
+https://www.thinkwithgoogle.com/intl/de-de/marketingressourcen/mobile-werbung/consumer-barometer-studie-2017-anteil-der-mobilen-internetnutzung-erstmals-%C3%BCber-50/
+http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet
+
+0103 Separate mobile Webseite
+https://webaim.org/blog/user-agent-string-history/
+https://web.wurfl.io/
+http://wtfmobileweb.com/
+
+0104 Responsive Webdesign
+https://alistapart.com/article/responsive-web-design
+http://bradfrost.com/wp-content/uploads/2014/07/iceberg-1024x768.png
+
+0105 RWD-Beispiel
+http://bradfrost.com/demo/mobile-first/
+
+0203 Testen Safari und Edge
+https://support.apple.com/de-de/guide/safari/use-the-safari-develop-menu-sfri20948/mac
+https://support.apple.com/kb/PH26266?locale=en_US
+
+0204 Online-Tools
+http://ami.responsivedesign.is/
+http://bradfrost.com/demo/ish/
+https://developers.google.com/speed/pagespeed/insights/
+
+0205 Weitere Tests
+https://developer.apple.com/xcode/
+https://developer.android.com/studio/
+https://www.browserstack.com/live#
+https://saucelabs.com/
+http://opendevicelab.com/
+
+0302 meta-viewport HTML oder CSS
+https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/UsingtheViewport/UsingtheViewport.html
+https://www.w3.org/TR/css-device-adapt-1/#atviewport-rule
+https://caniuse.com/#feat=css-deviceadaptation
+
+0303 meta-Viewport steuern
+http://www.mobilexweb.com/blog/safari-on-ios-9-3-picture-shrink-fit-iphone-se
+
+0307 Einheit für Media Queries
+https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/
+
+0404 flüssig zu responsive
+https://autoprefixer.github.io/
+
+0405 Flüssige Bilder
+https://placeholder.com/
+
+0502 Breakpoints
+https://www.mydevice.io/#compare-devices
+
+0503 responsive vs adaptive
+https://www.maurice-web.de/blogbeispiele/fest_fluessig.html
+https://www.maurice-web.de/blogbeispiele/adaptive_responsive.html
+
+0504 Layouttypen
+https://www.lukew.com/ff/entry.asp?1514
+https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns?hl=de
+https://bradfrost.github.io/this-is-responsive/patterns.html
+
+0506 Klappnavigation
+http://responsive-nav.com/

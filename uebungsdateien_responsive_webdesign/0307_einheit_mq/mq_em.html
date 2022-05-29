@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Media Queries</title>
+    <style>
+      @-ms-viewport {
+        width: device-width;
+      }
+      @viewport {
+        width: device-width;
+      }
+
+      body {
+        margin: 0;
+        padding: 20px;
+        font-family: sans-serif;
+        font-size: 400%;
+        background-color: white;
+        transition: background-color 0.5s;
+      }
+      @media screen and (min-width: 30em) {
+        body {
+          background: gray;
+          color: white;
+        }
+      }
+
+
+
+    </style>
+  </head>
+
+  <body>
+    <p>Die Hintergrundfarbe ändert sich je nach Viewportgröße</p>
+  </body>
+
+</html>

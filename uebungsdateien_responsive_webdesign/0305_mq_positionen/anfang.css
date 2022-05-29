@@ -1,0 +1,15 @@
+@-ms-viewport {
+  width: device-width;
+}
+
+@viewport {
+  width: device-width;
+}
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: sans-serif;
+  font-size: 200%;
+  background-color: white;
+  transition: background-color 0.5s;
+}
